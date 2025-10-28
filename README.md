@@ -21,7 +21,7 @@ Sistema web para cálculo de salarios con arquitectura MVC, desarrollado en Lara
 
 ### 1. Clonar el proyecto
 ```bash
-git clone https://github.com/nupan1024/calculo-salarial.git
+git clone https://github.com/nupan1024/calculo-salarial-laravel.git
 cd calculo-salarial-laravel
 ```
 
